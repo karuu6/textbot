@@ -1,0 +1,19 @@
+// install
+
+// python version < 3
+sudo apt-get install python3 python3-pip python3-virtualenv
+
+// setup venv..
+virtualenv venv
+
+source venv/bin/activate
+cd textbot
+pip install -r requirements.txt
+
+python app.py
+
+// How to run public
+install ngrok
+http://ngrok.io
+
+./ngrok http 5000
