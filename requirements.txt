@@ -22,6 +22,6 @@ search-google==1.2.1
 six==1.11.0
 twilio==6.10.4
 uritemplate==3.0.0
-urllib3==1.22
+urllib3==1.24.2
 Werkzeug==0.14.1
 wikipedia==1.4.0
