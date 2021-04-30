@@ -17,7 +17,7 @@ PyJWT==1.6.0
 PySocks==1.6.8
 pytz==2018.3
 requests==2.18.4
-rsa==3.4.2
+rsa==4.7
 search-google==1.2.1
 six==1.11.0
 twilio==6.10.4
